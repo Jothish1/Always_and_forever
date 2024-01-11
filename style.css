@@ -1,0 +1,81 @@
+/*{
+    background-color:whitesmoke;
+}*/
+head{
+   color: cadetblue;
+}
+
+.words,.quotes{
+    text-decoration: dashed;
+    text-shadow: 4rem;
+    color:powderblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    text-transform: capitalize;
+    word-spacing: 1rex;
+}
+.words:hover,.quotes:hover{
+    background-color:ghostwhite;
+    color:darkseagreen;
+    font-weight: 900;
+    font-style: oblique;
+    text-shadow: 100rem;
+    text-justify: inter-cluster;
+}
+
+header{
+    text-align: center;
+    color: cadetblue;
+    background-color:whitesmoke;
+    padding: 5px;
+    border-top: 10px;
+    border-radius: 50px;
+    border-color: black;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+header:hover{
+    background-color:cornflowerblue;
+    color:blanchedalmond;
+}
+h4{
+  color: cadetblue;
+  font-family:'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+main{
+    background-color:azure;
+    margin-top: 0px;
+}
+
+.k{
+    color: cadetblue;
+  background-color: white;
+  text-align: center;
+}
+#af{
+    color:brown;
+    text-align: center;
+}
+a:hover{
+    text-decoration:line-through;
+
+}
+a{
+    color:black;
+}
+
+#con,#tu,#ff{
+    color:chocolate;
+    font-weight: 900;
+    font-style: oblique;
+    text-shadow: 100rem;
+    text-justify: inter-cluster;
+}
+#tu{
+    text-align: center;
+}
+#ff{
+    text-align: right;
+}
